@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Users",
-    "slug": "users-slug",
+    "slug": "slug",
     "platforms": [
       "ios",
       "android",
@@ -16,7 +16,7 @@
       "backgroundColor": "#ffffff"
     },
     "android": {
-      "package": "com.users.users",
+      "package": "com.C.U",
       "versionCode": 1
     },
     "updates": {
@@ -27,7 +27,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.users.users",
+      "bundleIdentifier": "com.C.U",
       "buildNumber": "1.0.0"
     }
   }
